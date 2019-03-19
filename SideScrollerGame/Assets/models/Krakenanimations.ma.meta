@@ -1,0 +1,310 @@
+fileFormatVersion: 2
+guid: d36f582151465f34e9b6f0473871437d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: joint1
+    100002: joint10
+    100004: joint11
+    100006: joint12
+    100008: joint2
+    100010: joint3
+    100012: joint4
+    100014: joint5
+    100016: joint6
+    100018: joint7
+    100020: joint8
+    100022: joint9
+    100024: //RootNode
+    100026: pPipe10
+    100028: pPipe11
+    100030: pPipe12
+    100032: pPipe13
+    100034: pPipe14
+    100036: pPipe15
+    100038: pPipe16
+    100040: pPipe17
+    100042: pPipe18
+    100044: pPipe19
+    100046: pPipe2
+    100048: pPipe20
+    100050: pPipe21
+    100052: pPipe22
+    100054: pPipe23
+    100056: pPipe24
+    100058: pPipe25
+    100060: pPipe26
+    100062: pPipe27
+    100064: pPipe28
+    100066: pPipe29
+    100068: pPipe3
+    100070: pPipe30
+    100072: pPipe31
+    100074: pPipe32
+    100076: pPipe33
+    100078: pPipe34
+    100080: pPipe35
+    100082: pPipe36
+    100084: pPipe37
+    100086: pPipe38
+    100088: pPipe39
+    100090: pPipe4
+    100092: pPipe40
+    100094: pPipe41
+    100096: pPipe42
+    100098: pPipe43
+    100100: pPipe44
+    100102: pPipe45
+    100104: pPipe46
+    100106: pPipe47
+    100108: pPipe48
+    100110: pPipe49
+    100112: pPipe5
+    100114: pPipe50
+    100116: pPipe51
+    100118: pPipe52
+    100120: pPipe53
+    100122: pPipe54
+    100124: pPipe55
+    100126: pPipe56
+    100128: pPipe57
+    100130: pPipe58
+    100132: pPipe59
+    100134: pPipe6
+    100136: pPipe60
+    100138: pPipe63
+    100140: pPipe7
+    100142: pPipe8
+    100144: pPipe9
+    400000: joint1
+    400002: joint10
+    400004: joint11
+    400006: joint12
+    400008: joint2
+    400010: joint3
+    400012: joint4
+    400014: joint5
+    400016: joint6
+    400018: joint7
+    400020: joint8
+    400022: joint9
+    400024: //RootNode
+    400026: pPipe10
+    400028: pPipe11
+    400030: pPipe12
+    400032: pPipe13
+    400034: pPipe14
+    400036: pPipe15
+    400038: pPipe16
+    400040: pPipe17
+    400042: pPipe18
+    400044: pPipe19
+    400046: pPipe2
+    400048: pPipe20
+    400050: pPipe21
+    400052: pPipe22
+    400054: pPipe23
+    400056: pPipe24
+    400058: pPipe25
+    400060: pPipe26
+    400062: pPipe27
+    400064: pPipe28
+    400066: pPipe29
+    400068: pPipe3
+    400070: pPipe30
+    400072: pPipe31
+    400074: pPipe32
+    400076: pPipe33
+    400078: pPipe34
+    400080: pPipe35
+    400082: pPipe36
+    400084: pPipe37
+    400086: pPipe38
+    400088: pPipe39
+    400090: pPipe4
+    400092: pPipe40
+    400094: pPipe41
+    400096: pPipe42
+    400098: pPipe43
+    400100: pPipe44
+    400102: pPipe45
+    400104: pPipe46
+    400106: pPipe47
+    400108: pPipe48
+    400110: pPipe49
+    400112: pPipe5
+    400114: pPipe50
+    400116: pPipe51
+    400118: pPipe52
+    400120: pPipe53
+    400122: pPipe54
+    400124: pPipe55
+    400126: pPipe56
+    400128: pPipe57
+    400130: pPipe58
+    400132: pPipe59
+    400134: pPipe6
+    400136: pPipe60
+    400138: pPipe63
+    400140: pPipe7
+    400142: pPipe8
+    400144: pPipe9
+    2100000: lambert3
+    2100002: lambert2
+    4300000: pPipe63
+    7400000: Idel
+    7400002: Swing
+    9500000: //RootNode
+    13700000: pPipe63
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: ac0878b39eb6a964cbe02b31918dd228, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: df0918a7596857047bd026010ab0abb5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idel
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 98
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Swing
+      takeName: Take 001
+      firstFrame: 100
+      lastFrame: 157
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
