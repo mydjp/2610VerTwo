@@ -1,0 +1,82 @@
+{
+    "format": {
+        "version": "1.0"
+    },
+    "shaders": {
+        "Main shader": {
+            "parameters": {
+                "Common Parameters": {
+                    "ao_intensity": 0.75,
+                    "emissive_intensity": 1,
+                    "horizonFade": 1.2999999523162842,
+                    "nbSamples": 16
+                },
+                "Parallax Occlusion Mapping": {
+                    "maxPOMSamples": 16,
+                    "minPOMSamples": 4,
+                    "pomStrength": 1,
+                    "usePOM": false
+                },
+                "Subsurface Scattering Parameters": {
+                    "sssColor": [
+                        0.7009999752044678,
+                        0.3009999990463257,
+                        0.3050000071525574
+                    ],
+                    "sssEnabled": true,
+                    "sssScale": 0.5,
+                    "sssType": 1
+                }
+            },
+            "shader": "pbr-metal-rough",
+            "shaderInstance": "Main shader"
+        }
+    },
+    "texturesets": {
+        "Barrel": {
+            "shader": "Main shader"
+        },
+        "Boat": {
+            "shader": "Main shader"
+        },
+        "Bones": {
+            "shader": "Main shader"
+        },
+        "Cannon": {
+            "shader": "Main shader"
+        },
+        "Crates": {
+            "shader": "Main shader"
+        },
+        "Door": {
+            "shader": "Main shader"
+        },
+        "Flags": {
+            "shader": "Main shader"
+        },
+        "Metal": {
+            "shader": "Main shader"
+        },
+        "Pillars": {
+            "shader": "Main shader"
+        },
+        "Railing": {
+            "shader": "Main shader"
+        },
+        "Rails": {
+            "shader": "Main shader"
+        },
+        "Ropes": {
+            "shader": "Main shader"
+        },
+        "Stairs": {
+            "shader": "Main shader"
+        },
+        "Wheel": {
+            "shader": "Main shader"
+        },
+        "initialShadingGroup": {
+            "shader": "Main shader"
+        }
+    }
+}
