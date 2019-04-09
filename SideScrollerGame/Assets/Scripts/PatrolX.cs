@@ -6,6 +6,7 @@ public class PatrolX : MonoBehaviour
 {
 
     public float speed = 5;
+    private Vector3 rot;
     
     
 
@@ -23,6 +24,19 @@ public class PatrolX : MonoBehaviour
         if(obj.gameObject.CompareTag("Patrol"))
         {
             speed = speed * -1;
+            
+            
+            rot.y = 90;
+            transform.rotation = Quaternion.Euler(rot);
+        }
+        
+        if(obj.gameObject.CompareTag("PatrolNeg"))
+        {
+            speed = speed * -1;
+            
+            
+            rot.y = -90;
+            transform.rotation = Quaternion.Euler(rot);
         }
     }
 

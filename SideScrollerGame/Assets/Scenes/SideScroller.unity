@@ -2514,7 +2514,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8ca7104c9806d544b90d571091c3588d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.732
+      value: -2.64
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8ca7104c9806d544b90d571091c3588d, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2554,15 +2554,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8ca7104c9806d544b90d571091c3588d, type: 3}
       propertyPath: m_LocalScale.x
-      value: 1.088347
+      value: 0.92509496
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8ca7104c9806d544b90d571091c3588d, type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.088347
+      value: 0.92509496
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8ca7104c9806d544b90d571091c3588d, type: 3}
       propertyPath: m_LocalScale.z
-      value: 1.088347
+      value: 0.92509496
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8ca7104c9806d544b90d571091c3588d, type: 3}
@@ -3042,7 +3042,7 @@ GameObject:
   - component: {fileID: 1733684633}
   m_Layer: 0
   m_Name: GameObject (1)
-  m_TagString: Patrol
+  m_TagString: PatrolNeg
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
