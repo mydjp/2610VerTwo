@@ -18,7 +18,6 @@
           <e p="BoatRandomshooting.cs" t="Include" />
           <e p="BulletKill.cs" t="Include" />
           <e p="CannonTracking.cs" t="Include" />
-          <e p="Constant CC move.cs" t="Include" />
           <e p="ContinousSpeed.cs" t="Include" />
           <e p="DestroyAfterTime.cs" t="Include" />
           <e p="DoubleClick.cs" t="Include" />
