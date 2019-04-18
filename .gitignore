@@ -10,7 +10,7 @@ Assets/Bolt/
 ExportedObj/
 *.csproj
 *.unityproj
-*.sln
+
 *.suo
 *.tmp
 *.user
@@ -762,7 +762,7 @@ ExportedObj/
 
 *.unityproj
 
-*.sln
+
 
 *.suo
 
