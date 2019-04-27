@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\10545698\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_SideScrollerGame.-1929435030.00" t="ExcludeRecursive" />
-    <e p="C:\Users\10545698\Documents\repos\2610VerTwo\SideScrollerGame" t="IncludeRecursive">
+    <e p="C:\Users\Daniel\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Daniel\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_SideScrollerGame.-1017206235.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Daniel\Documents\GitRepos\2610VerTwo\SideScrollerGame" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
