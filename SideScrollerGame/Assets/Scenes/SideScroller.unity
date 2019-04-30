@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.41037357, g: 0.43462464, b: 0.4432561, a: 1}
+  m_IndirectSpecularColor: {r: 0.41037324, g: 0.43462452, b: 0.44325617, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -29924,14 +29924,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 464095451}
-  m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 49.1, y: -18.6, z: 10.1}
+  m_LocalRotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 204.2, y: -18.6, z: 10.1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 48827726}
   m_Father: {fileID: 534988179}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
 --- !u!1001 &477784393
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -30215,7 +30215,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 534669902}
-  m_LocalRotation: {x: 0.02668444, y: 0.15099755, z: -0.0040775407, w: 0.9881655}
+  m_LocalRotation: {x: 0.026684461, y: 0.15099752, z: -0.004077543, w: 0.9881655}
   m_LocalPosition: {x: -24.53317, y: 4.44, z: -78.401184}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -50460,7 +50460,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 870914380}
-  m_LocalRotation: {x: 0.02668444, y: 0.15099755, z: -0.0040775407, w: 0.9881655}
+  m_LocalRotation: {x: 0.026684461, y: 0.15099752, z: -0.004077543, w: 0.9881655}
   m_LocalPosition: {x: -7.000001, y: 6.6473455, z: -26.691187}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -61067,6 +61067,7 @@ GameObject:
   - component: {fileID: 1200135862}
   - component: {fileID: 1200135861}
   - component: {fileID: 1200135863}
+  - component: {fileID: 1200135864}
   m_Layer: 0
   m_Name: Kraken
   m_TagString: Untagged
@@ -61119,7 +61120,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b8da03af9172fa44bbf72b103c6af99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1
+  speed: 12
 --- !u!114 &1200135863
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -61136,6 +61137,20 @@ MonoBehaviour:
   Kraken: {fileID: 1200135859}
   YPosition: 0
   TTime: 0.5
+--- !u!114 &1200135864
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1200135859}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc949530c8b21ec45b956fc476e809cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  other: {fileID: 1200135859}
+  distance: 100
 --- !u!1 &1207212926
 GameObject:
   m_ObjectHideFlags: 0
