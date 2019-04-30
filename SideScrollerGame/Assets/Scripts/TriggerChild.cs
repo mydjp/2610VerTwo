@@ -5,17 +5,19 @@ using UnityEngine;
 public class TriggerChild : MonoBehaviour
 {
 
-    public GameObject player;
-    
+    private void OnTriggerEnter(Collider other)
+    {
+        Debug.Log("Triggered by " + other.gameObject.name);
+        var GameObjectToParent = other.transform.parent;
+        GameObjectToParent.transform.SetParent(gameObject.transform);
+    }
+
+    private void OnTriggerExit(Collider other)
+    {
+        Debug.Log("TriggerExit");
+        var GameObjectToParent = other.transform.parent;
+        GameObjectToParent.transform.SetParent(gameObject.transform.parent);
+    }
+}
     
 
-   
-    private void OnCollisionEnter(Collision obj)
-        {
-            if(obj.gameObject.CompareTag("Player"))
-            {
-                player.transform.SetParent(transform);
-            }
-        }
-    
-}
