@@ -16,11 +16,15 @@ public class RandomCannonShoot : MonoBehaviour
 
     public float speed;
     
+    private AudioSource mAudioSrc;
+    
 
 // Use this for initialization
     void Start () 
     {
             InvokeRepeating("SpawnObject", spawnTime, spawnDelay);
+            
+            mAudioSrc = GetComponent<AudioSource>();
     }
 
 
@@ -37,7 +41,7 @@ public class RandomCannonShoot : MonoBehaviour
             CancelInvoke("SpawnObject");
         }
         
-        
+        mAudioSrc.Play();
     }
     
     

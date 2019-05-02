@@ -8,6 +8,8 @@ TagManager:
   - Bullet
   - Patrol
   - PatrolNeg
+  - Boat
+  - AtkBoat
   layers:
   - Default
   - TransparentFX

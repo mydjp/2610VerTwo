@@ -3,426 +3,197 @@ guid: b286811308d56934c8667681f8ae7e00
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: joint1
-    100004: joint10
-    100006: joint10 1
-    100008: joint10 10
-    100010: joint10 11
-    100012: joint10 12
-    100014: joint10 13
-    100016: joint10 2
-    100018: joint10 3
-    100020: joint10 4
-    100022: joint10 5
-    100024: joint10 6
-    100026: joint10 7
-    100028: joint10 8
-    100030: joint10 9
-    100032: joint11
-    100034: joint11 1
-    100036: joint11 10
-    100038: joint11 11
-    100040: joint11 12
-    100042: joint11 13
-    100044: joint11 2
-    100046: joint11 3
-    100048: joint11 4
-    100050: joint11 5
-    100052: joint11 6
-    100054: joint11 7
-    100056: joint11 8
-    100058: joint11 9
-    100060: joint12
-    100062: joint13
-    100064: joint14
-    100066: joint16
-    100068: joint17
-    100070: joint19
-    100072: joint2
-    100074: joint2 1
-    100076: joint2 10
-    100078: joint2 11
-    100080: joint2 12
-    100082: joint2 13
-    100084: joint2 2
-    100086: joint2 3
-    100088: joint2 4
-    100090: joint2 5
-    100092: joint2 6
-    100094: joint2 7
-    100096: joint2 8
-    100098: joint2 9
-    100100: joint20
-    100102: joint21
-    100104: joint22
-    100106: joint23
-    100108: joint24
-    100110: joint25
-    100112: joint26
-    100114: joint3
-    100116: joint3 1
-    100118: joint3 10
-    100120: joint3 11
-    100122: joint3 12
-    100124: joint3 13
-    100126: joint3 2
-    100128: joint3 3
-    100130: joint3 4
-    100132: joint3 5
-    100134: joint3 6
-    100136: joint3 7
-    100138: joint3 8
-    100140: joint3 9
-    100142: joint4
-    100144: joint4 1
-    100146: joint4 10
-    100148: joint4 11
-    100150: joint4 12
-    100152: joint4 13
-    100154: joint4 2
-    100156: joint4 3
-    100158: joint4 4
-    100160: joint4 5
-    100162: joint4 6
-    100164: joint4 7
-    100166: joint4 8
-    100168: joint4 9
-    100170: joint5
-    100172: joint5 1
-    100174: joint5 10
-    100176: joint5 11
-    100178: joint5 12
-    100180: joint5 13
-    100182: joint5 2
-    100184: joint5 3
-    100186: joint5 4
-    100188: joint5 5
-    100190: joint5 6
-    100192: joint5 7
-    100194: joint5 8
-    100196: joint5 9
-    100198: joint6
-    100200: joint6 1
-    100202: joint6 10
-    100204: joint6 11
-    100206: joint6 12
-    100208: joint6 13
-    100210: joint6 2
-    100212: joint6 3
-    100214: joint6 4
-    100216: joint6 5
-    100218: joint6 6
-    100220: joint6 7
-    100222: joint6 8
-    100224: joint6 9
-    100226: joint7
-    100228: joint7 1
-    100230: joint7 10
-    100232: joint7 11
-    100234: joint7 12
-    100236: joint7 13
-    100238: joint7 2
-    100240: joint7 3
-    100242: joint7 4
-    100244: joint7 5
-    100246: joint7 6
-    100248: joint7 7
-    100250: joint7 8
-    100252: joint7 9
-    100254: joint8
-    100256: joint8 1
-    100258: joint8 10
-    100260: joint8 11
-    100262: joint8 12
-    100264: joint8 13
-    100266: joint8 2
-    100268: joint8 3
-    100270: joint8 4
-    100272: joint8 5
-    100274: joint8 6
-    100276: joint8 7
-    100278: joint8 8
-    100280: joint8 9
-    100282: joint9
-    100284: joint9 1
-    100286: joint9 10
-    100288: joint9 11
-    100290: joint9 12
-    100292: joint9 13
-    100294: joint9 2
-    100296: joint9 3
-    100298: joint9 4
-    100300: joint9 5
-    100302: joint9 6
-    100304: joint9 7
-    100306: joint9 8
-    100308: joint9 9
-    100310: pCube11
-    100312: pCube12
-    100314: pCube14
-    100316: pCube15
-    100318: pCube16
-    100320: pCube17
-    100322: pCube18
-    100324: pCube19
-    100326: pCube2
-    100328: pCube20
-    100330: pCube21
-    100332: pCube6
-    100334: pCube7
-    100336: pCube8
-    100338: pCube9
-    100340: polySurface1
-    100342: polySurface2
-    100344: polySurface3
-    100346: polySurface3 1
-    100348: polySurface4
-    100350: polySurface5
-    100352: pPlane1
-    100354: pPlane2
-    100356: pPlane3
-    100358: pPlane5
-    100360: pPlane7
-    100362: transform1
-    100364: transform2
-    100366: transform3
-    100368: transform4
-    100370: transform5
-    100372: transform6
-    100374: transform7
-    100376: transform8
-    100378: transform9
-    400000: //RootNode
-    400002: joint1
-    400004: joint10
-    400006: joint10 1
-    400008: joint10 10
-    400010: joint10 11
-    400012: joint10 12
-    400014: joint10 13
-    400016: joint10 2
-    400018: joint10 3
-    400020: joint10 4
-    400022: joint10 5
-    400024: joint10 6
-    400026: joint10 7
-    400028: joint10 8
-    400030: joint10 9
-    400032: joint11
-    400034: joint11 1
-    400036: joint11 10
-    400038: joint11 11
-    400040: joint11 12
-    400042: joint11 13
-    400044: joint11 2
-    400046: joint11 3
-    400048: joint11 4
-    400050: joint11 5
-    400052: joint11 6
-    400054: joint11 7
-    400056: joint11 8
-    400058: joint11 9
-    400060: joint12
-    400062: joint13
-    400064: joint14
-    400066: joint16
-    400068: joint17
-    400070: joint19
-    400072: joint2
-    400074: joint2 1
-    400076: joint2 10
-    400078: joint2 11
-    400080: joint2 12
-    400082: joint2 13
-    400084: joint2 2
-    400086: joint2 3
-    400088: joint2 4
-    400090: joint2 5
-    400092: joint2 6
-    400094: joint2 7
-    400096: joint2 8
-    400098: joint2 9
-    400100: joint20
-    400102: joint21
-    400104: joint22
-    400106: joint23
-    400108: joint24
-    400110: joint25
-    400112: joint26
-    400114: joint3
-    400116: joint3 1
-    400118: joint3 10
-    400120: joint3 11
-    400122: joint3 12
-    400124: joint3 13
-    400126: joint3 2
-    400128: joint3 3
-    400130: joint3 4
-    400132: joint3 5
-    400134: joint3 6
-    400136: joint3 7
-    400138: joint3 8
-    400140: joint3 9
-    400142: joint4
-    400144: joint4 1
-    400146: joint4 10
-    400148: joint4 11
-    400150: joint4 12
-    400152: joint4 13
-    400154: joint4 2
-    400156: joint4 3
-    400158: joint4 4
-    400160: joint4 5
-    400162: joint4 6
-    400164: joint4 7
-    400166: joint4 8
-    400168: joint4 9
-    400170: joint5
-    400172: joint5 1
-    400174: joint5 10
-    400176: joint5 11
-    400178: joint5 12
-    400180: joint5 13
-    400182: joint5 2
-    400184: joint5 3
-    400186: joint5 4
-    400188: joint5 5
-    400190: joint5 6
-    400192: joint5 7
-    400194: joint5 8
-    400196: joint5 9
-    400198: joint6
-    400200: joint6 1
-    400202: joint6 10
-    400204: joint6 11
-    400206: joint6 12
-    400208: joint6 13
-    400210: joint6 2
-    400212: joint6 3
-    400214: joint6 4
-    400216: joint6 5
-    400218: joint6 6
-    400220: joint6 7
-    400222: joint6 8
-    400224: joint6 9
-    400226: joint7
-    400228: joint7 1
-    400230: joint7 10
-    400232: joint7 11
-    400234: joint7 12
-    400236: joint7 13
-    400238: joint7 2
-    400240: joint7 3
-    400242: joint7 4
-    400244: joint7 5
-    400246: joint7 6
-    400248: joint7 7
-    400250: joint7 8
-    400252: joint7 9
-    400254: joint8
-    400256: joint8 1
-    400258: joint8 10
-    400260: joint8 11
-    400262: joint8 12
-    400264: joint8 13
-    400266: joint8 2
-    400268: joint8 3
-    400270: joint8 4
-    400272: joint8 5
-    400274: joint8 6
-    400276: joint8 7
-    400278: joint8 8
-    400280: joint8 9
-    400282: joint9
-    400284: joint9 1
-    400286: joint9 10
-    400288: joint9 11
-    400290: joint9 12
-    400292: joint9 13
-    400294: joint9 2
-    400296: joint9 3
-    400298: joint9 4
-    400300: joint9 5
-    400302: joint9 6
-    400304: joint9 7
-    400306: joint9 8
-    400308: joint9 9
-    400310: pCube11
-    400312: pCube12
-    400314: pCube14
-    400316: pCube15
-    400318: pCube16
-    400320: pCube17
-    400322: pCube18
-    400324: pCube19
-    400326: pCube2
-    400328: pCube20
-    400330: pCube21
-    400332: pCube6
-    400334: pCube7
-    400336: pCube8
-    400338: pCube9
-    400340: polySurface1
-    400342: polySurface2
-    400344: polySurface3
-    400346: polySurface3 1
-    400348: polySurface4
-    400350: polySurface5
-    400352: pPlane1
-    400354: pPlane2
-    400356: pPlane3
-    400358: pPlane5
-    400360: pPlane7
-    400362: transform1
-    400364: transform2
-    400366: transform3
-    400368: transform4
-    400370: transform5
-    400372: transform6
-    400374: transform7
-    400376: transform8
-    400378: transform9
-    2100000: lambert1
-    2300000: polySurface5
-    2300002: pPlane5
-    2300004: pPlane7
-    3300000: polySurface5
-    3300002: pPlane5
-    3300004: pPlane7
-    4300000: pPlane5
-    4300002: pCube6
-    4300004: pCube7
-    4300006: pCube8
-    4300008: pCube9
-    4300010: pCube11
-    4300012: pCube12
-    4300014: pCube14
-    4300016: pCube15
-    4300018: pCube16
-    4300020: pCube17
-    4300022: pCube18
-    4300024: pCube19
-    4300026: pCube20
-    4300028: pCube21
-    4300030: polySurface5
-    4300032: pPlane7
+    100000: Chest_Jnt
+    100002: //RootNode
+    100004: human:Body
+    100006: human:Wings1
+    100008: joint27
+    100010: joint28
+    100012: joint29
+    100014: joint30
+    100016: joint31
+    100018: joint32
+    100020: joint33
+    100022: joint34
+    100024: joint35
+    100026: joint36
+    100028: joint37
+    100030: joint38
+    100032: joint39
+    100034: joint45
+    100036: joint46
+    100038: joint46 1
+    100040: joint46 2
+    100042: joint46 3
+    100044: joint46 4
+    100046: joint46 5
+    100048: joint46 6
+    100050: joint47
+    100052: joint47 1
+    100054: joint47 2
+    100056: joint47 3
+    100058: joint47 4
+    100060: joint47 5
+    100062: joint47 6
+    100064: joint48
+    100066: joint48 1
+    100068: joint48 2
+    100070: joint48 3
+    100072: joint48 4
+    100074: joint48 5
+    100076: joint48 6
+    100078: joint49
+    100080: joint49 1
+    100082: joint49 2
+    100084: joint49 3
+    100086: joint49 4
+    100088: joint49 5
+    100090: joint49 6
+    100092: joint50
+    100094: joint50 1
+    100096: joint50 2
+    100098: joint50 3
+    100100: joint50 4
+    100102: joint50 5
+    100104: joint50 6
+    100106: joint51
+    100108: joint52
+    100110: joint53
+    100112: joint54
+    100114: joint55
+    100116: joint56
+    100118: L_Elbow_Jnt
+    100120: L_Shoulder_Jnt
+    100122: L_Wrist_Jnt
+    100124: pCube22
+    100126: pCube23
+    100128: pCube24
+    100130: pCube25
+    100132: pCube26
+    100134: pCube27
+    100136: pCube28
+    100138: pPlane5
+    100140: pPlane5 1
+    100142: pPlane5 2
+    100144: pPlane7
+    100146: R_Elbow_Jnt
+    100148: R_Shoulder_Jnt
+    100150: R_Wrist_Jnt
+    100152: Stomach_Jnt
+    400000: Chest_Jnt
+    400002: //RootNode
+    400004: human:Body
+    400006: human:Wings1
+    400008: joint27
+    400010: joint28
+    400012: joint29
+    400014: joint30
+    400016: joint31
+    400018: joint32
+    400020: joint33
+    400022: joint34
+    400024: joint35
+    400026: joint36
+    400028: joint37
+    400030: joint38
+    400032: joint39
+    400034: joint45
+    400036: joint46
+    400038: joint46 1
+    400040: joint46 2
+    400042: joint46 3
+    400044: joint46 4
+    400046: joint46 5
+    400048: joint46 6
+    400050: joint47
+    400052: joint47 1
+    400054: joint47 2
+    400056: joint47 3
+    400058: joint47 4
+    400060: joint47 5
+    400062: joint47 6
+    400064: joint48
+    400066: joint48 1
+    400068: joint48 2
+    400070: joint48 3
+    400072: joint48 4
+    400074: joint48 5
+    400076: joint48 6
+    400078: joint49
+    400080: joint49 1
+    400082: joint49 2
+    400084: joint49 3
+    400086: joint49 4
+    400088: joint49 5
+    400090: joint49 6
+    400092: joint50
+    400094: joint50 1
+    400096: joint50 2
+    400098: joint50 3
+    400100: joint50 4
+    400102: joint50 5
+    400104: joint50 6
+    400106: joint51
+    400108: joint52
+    400110: joint53
+    400112: joint54
+    400114: joint55
+    400116: joint56
+    400118: L_Elbow_Jnt
+    400120: L_Shoulder_Jnt
+    400122: L_Wrist_Jnt
+    400124: pCube22
+    400126: pCube23
+    400128: pCube24
+    400130: pCube25
+    400132: pCube26
+    400134: pCube27
+    400136: pCube28
+    400138: pPlane5
+    400140: pPlane5 1
+    400142: pPlane5 2
+    400144: pPlane7
+    400146: R_Elbow_Jnt
+    400148: R_Shoulder_Jnt
+    400150: R_Wrist_Jnt
+    400152: Stomach_Jnt
+    2100000: lambert4
+    2100002: lambert3
+    2300000: pPlane5 2
+    2300002: pPlane7
+    3300000: pPlane5 2
+    3300002: pPlane7
+    4300000: human:Body
+    4300002: pPlane5
+    4300004: pPlane7
+    4300006: pCube22
+    4300008: pCube23
+    4300010: pCube24
+    4300012: pCube25
+    4300014: pCube26
+    4300016: pCube27
+    4300018: pCube28
+    7400000: Take 001
     9500000: //RootNode
-    13700000: pCube11
-    13700002: pCube12
-    13700004: pCube14
-    13700006: pCube15
-    13700008: pCube16
-    13700010: pCube17
-    13700012: pCube18
-    13700014: pCube19
-    13700016: pCube20
-    13700018: pCube21
-    13700020: pCube6
-    13700022: pCube7
-    13700024: pCube8
-    13700026: pCube9
-  externalObjects: {}
+    13700000: human:Body
+    13700002: pCube22
+    13700004: pCube23
+    13700006: pCube24
+    13700008: pCube25
+    13700010: pCube26
+    13700012: pCube27
+    13700014: pCube28
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: f1f0f3aab156def4ea5f56c42a694953, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4
+    second: {fileID: 2100000, guid: fab64416afedfe949ac34c2772e0e2dc, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -449,7 +220,35 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []

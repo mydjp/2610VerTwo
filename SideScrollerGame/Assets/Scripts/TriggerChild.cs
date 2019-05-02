@@ -7,9 +7,12 @@ public class TriggerChild : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log("Triggered by " + other.gameObject.name);
-        var GameObjectToParent = other.transform.parent;
-        GameObjectToParent.transform.SetParent(gameObject.transform);
+        
+
+            Debug.Log("Triggered by " + other.gameObject.name);
+            var GameObjectToParent = other.transform.parent;
+            GameObjectToParent.transform.SetParent(gameObject.transform);
+        
     }
 
     private void OnTriggerExit(Collider other)
