@@ -7,11 +7,14 @@ public class ShootBoat : MonoBehaviour
 {
     private Animator anim;
     
+    private AudioSource mAudioSrc;
+    
     
 
     void Start()
     {
         anim = GetComponent<Animator>();
+        mAudioSrc = GetComponent<AudioSource>();
         
     }
 
@@ -21,6 +24,8 @@ public class ShootBoat : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.E) && other.tag == "Player")
         {
             anim.SetTrigger("AtkBoatGo");
+            mAudioSrc.Play();
+            
         }
 
 

@@ -13,7 +13,22 @@ ModelImporter:
     4300000: pPipe6
     7400000: Take 001
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boat
+    second: {fileID: 2100000, guid: 2672c605243d1d04286ecef9e29ec903, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BoatAccesceries
+    second: {fileID: 2100000, guid: a3a5c6c2d1ae0ab46b81bbd93a9c33ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flyingstuff
+    second: {fileID: 2100000, guid: 84d8403e8bb69804385ba2aedcab7240, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

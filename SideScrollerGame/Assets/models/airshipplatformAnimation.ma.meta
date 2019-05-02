@@ -138,7 +138,27 @@ ModelImporter:
     4300048: polySurface17
     7400000: Take 001
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cabin
+    second: {fileID: 2100000, guid: f52bfa00b4f656a4e98061eefc27b9a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Engines
+    second: {fileID: 2100000, guid: 65e0782f5bab38b4dbd338628eaf9e63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlatformBoat
+    second: {fileID: 2100000, guid: d31b0b1d12ab28f47a9aa56ac0579563, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 711b5071d828803438549bd304ca156f, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
